@@ -6,10 +6,6 @@
 
 <p align="left"> Because Amoung Us is preety cool game I decided to have some fun with it. I decided to make terminal version of the game. You are the crewmate all the time you have to guess the imposter and you have only 2 turn to guess the imposter</p>
 
-<p align="left">If you want to play game you can clone this repo and run</p>
-```
-$ git clone https://github.com/shashanke7y/terminal-amoung-us.git
-$ python lobby.py
-```
+<p align="left">If you want to play game you can clone this repo and run lobby.py file</p>
 
 <img src="https://wallpapercave.com/wp/wp7445961.jpg"/>
