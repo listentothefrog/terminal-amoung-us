@@ -10,13 +10,13 @@ def set_lobby():
     time.sleep(2)
     player_input = raw_input("Guess the imposter: ")
 
-    if player_input.lower() == imposter:
+    if player_input == imposter:
         print("{}".format(player_input) + " was the imposter")
         print("VICTORY")
     else:
         print("{}".format(player_input) + " was not the imposter")
         player_input = raw_input("Guess the imposter: ")
-        if player_input.lower() == imposter:
+        if player_input == imposter:
             print("{}".format(player_input) + " was the imposter")
             print("VICTORY")
         else:
